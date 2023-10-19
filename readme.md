@@ -1,1 +1,1 @@
-Under construction..come back soon. 
+This repository contains scripts used for analysis of fungal ITS2 data. 
