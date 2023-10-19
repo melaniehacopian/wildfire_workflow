@@ -38,7 +38,7 @@ write.table(t(matching_metadata), file = "matching_metadata_bray.tsv", quote=FAL
 ####################################################################################
 
 
-# Dataframe with relative abundances of each guild within each sample (created in guild abundance script)
+# Dataframe with relative abundances of each guild within each sample (created in guild community composition script)
 
 head(final_rel_abs_forPRIMER)
 
